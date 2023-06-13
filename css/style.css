@@ -191,21 +191,6 @@ footer div h2 {
 	margin: 0;
 }
 
-/* LICENCE */
-#licence {
-    display: block;
-    text-align: center;
-    padding: 25px;
-}
-
-#licence img {
-    width: 50px;
-}
-
-#licence a {
-	color: white;
-}
-
 /*MODE TABLETTE*/
 @media screen and (min-width: 720px){
     
